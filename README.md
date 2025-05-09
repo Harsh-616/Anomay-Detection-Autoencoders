@@ -75,14 +75,6 @@ The project follows a modular and pedagogical structure:
 
 ---
 
-## 🚀 Future Extensions
-
-- Implement Variational Autoencoders (VAEs) or Sequence Autoencoders for temporal anomalies
-- Explore adaptive thresholding using statistical methods
-- Deploy the model in real-time anomaly detection pipelines (e.g., network intrusion, transaction fraud)
-
----
-
 ## 📁 Files
 
 - `anomaly-detection-with-autoencoders-6.ipynb`: Full implementation notebook
